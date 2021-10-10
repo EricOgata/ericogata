@@ -18,10 +18,12 @@
 ***
 #### **MY TECHNOLOGIES**
 ##### **LANGUAGES**
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge">
+<div style="display:flex; flex-wrap: wrap; align-items: flex-start;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge">
+</div>
 
 ##### **FRONT-END**
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
