@@ -70,7 +70,7 @@
 
 #### **SOCIALS**
 <div style="display:flex; flex-wrap: wrap; align-items: flex-start;">
-    <a href="https://twitter.com/EricMOgata"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
-    <a href="https://github.com/EricOgata"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-    <a href="https://ogata.dev"><img src="https://img.shields.io/badge/-MY%20PORTIFOLIO-000000?style=for-the-badge"></a>
+    <a href="https://twitter.com/EricMOgata" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
+    <a href="https://github.com/EricOgata" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+    <a href="https://ogata.dev" target="_blank"><img src="https://img.shields.io/badge/-MY%20PORTIFOLIO-000000?style=for-the-badge"></a>
 </div>
