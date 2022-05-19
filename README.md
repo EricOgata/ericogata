@@ -65,6 +65,7 @@
 ##### **OTHERS**
 <div style="display:flex; flex-wrap: wrap; align-items: flex-start;">
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge">
 </div>
 
 ---
