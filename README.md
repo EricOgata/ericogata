@@ -13,7 +13,7 @@
 - :computer: I’m currently working on **[WebHub](https://www.webhub.com.br/)**
 - :gear: I use daily: `.php`, `.js`, `.jsx`
 - :coffee: You can find more of my work at **[ogata.dev](https://ogata.dev)**
-- 🌱 I’m currently learning _[Flutter](https://flutter.dev/)_
+- 🌱 I’m currently learning _[Flutter](https://flutter.dev/)_ & _[React-Native](https://reactnative.dev/)_
 - 💬 Ping my about anything. Really, let's talk about everything.
 - 📫 How to reach me: <a href="mailto:dev.ericogata@gmail.com">dev.ericogata@gmail.com</a>
 - 😄 Pronouns: he/him
