@@ -10,7 +10,7 @@
 
 #### **BIO**
 
-- :computer: I’m currently working on **[WebHub](https://www.webhub.com.br/)**
+- :computer: I’m currently working at **[WebHub](https://www.webhub.com.br/)**
 - :gear: I use daily: `.php`, `.js`, `.jsx`
 - :coffee: You can find more of my work at **[ogata.dev](https://ogata.dev)**
 - 🌱 I’m currently learning _[Flutter](https://flutter.dev/)_ & _[React-Native](https://reactnative.dev/)_
